@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Класифікація рівнянь у математиці</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            box-shadow: 0 2px 3px rgba(0,0,0,0.1);
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #3498db;
+            color: white;
+            font-weight: bold;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        tr:hover {
+            background-color: #e3f2fd;
+        }
+        .category {
+            background-color: #2980b9;
+            color: white;
+            font-weight: bold;
+        }
+        .subcategory {
+            background-color: #b3e0ff;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Класифікація типів рівнянь у математиці</h1>
+    
+    <table>
+        <tr>
+            <th>Галузь математики</th>
+            <th>Тип рівняння</th>
+            <th>Підтип</th>
+            <th>Приклад</th>
+        </tr>
+        
+        <!-- Алгебраїчні рівняння -->
+        <tr>
+            <td rowspan="8" class="category">Алгебра</td>
+            <td rowspan="5" class="subcategory">Алгебраїчні</td>
+            <td>Лінійні</td>
+            <td>2x + 3 = 7</td>
+        </tr>
+        <tr>
+            <td>Квадратні</td>
+            <td>x² - 5x + 6 = 0</td>
+        </tr>
+        <tr>
+            <td>Кубічні</td>
+            <td>x³ - 2x² - x + 2 = 0</td>
+        </tr>
+        <tr>
+            <td>Біквадратні</td>
+            <td>x⁴ - 13x² + 36 = 0</td>
+        </tr>
+        <tr>
+            <td>Поліноміальні вищих степенів</td>
+            <td>x⁵ - 4x³ + x² - 8 = 0</td>
+        </tr>
+        
+        <tr>
+            <td rowspan="3" class="subcategory">Інші</td>
+            <td>Раціональні</td>
+            <td>(x+1)/(x-2) = 3</td>
+        </tr>
+        <tr>
+            <td>Ірраціональні</td>
+            <td>√(x+3) = x - 3</td>
+        </tr>
+        <tr>
+            <td>Трансцендентні</td>
+            <td>2ˣ + 3ˣ = 5ˣ</td>
+        </tr>
+        
+        <!-- Диференціальні рівняння -->
+        <tr>
+            <td rowspan="6" class="category">Диференціальні рівняння</td>
+            <td rowspan="3" class="subcategory">Звичайні (ОДР)</td>
+            <td>Лінійні</td>
+            <td>y'' + y' - 2y = 0</td>
+        </tr>
+        <tr>
+            <td>Нелінійні</td>
+            <td>y'' + sin(y) = 0</td>
+        </tr>
+        <tr>
+            <td>З відокремлюваними змінними</td>
+            <td>dy/dx = x/y</td>
+        </tr>
+        
+        <tr>
+            <td rowspan="3" class="subcategory">Частинні похідні</td>
+            <td>Еліптичні</td>
+            <td>∇²u = 0 (рівняння Лапласа)</td>
+        </tr>
+        <tr>
+            <td>Параболічні</td>
+            <td>∂u/∂t = ∂²u/∂x² (рівняння теплопровідності)</td>
+        </tr>
+        <tr>
+            <td>Гіперболічні</td>
+            <td>∂²u/∂t² = c²∂²u/∂x² (хвильове рівняння)</td>
+        </tr>
+        
+        <!-- Інтегральні рівняння -->
+        <tr>
+            <td rowspan="3" class="category">Інтегральні рівняння</td>
+            <td rowspan="3" class="subcategory">-</td>
+            <td>Фредгольма I роду</td>
+            <td>∫K(x,s)y(s)ds = f(x)</td>
+        </tr>
+        <tr>
+            <td>Фредгольма II роду</td>
+            <td>y(x) = f(x) + λ∫K(x,s)y(s)ds</td>
+        </tr>
+        <tr>
+            <td>Вольтерра</td>
+            <td>y(x) = f(x) + λ∫₀ˣK(x,s)y(s)ds</td>
+        </tr>
+        
+        <!-- Функціональні рівняння -->
+        <tr>
+            <td class="category">Функціональні рівняння</td>
+            <td class="subcategory">-</td>
+            <td>Функціональні</td>
+            <td>f(x+y) = f(x) + f(y) (рівняння Коші)</td>
+        </tr>
+        
+        <!-- Диференціально-алгебраїчні рівняння -->
+        <tr>
+            <td class="category">Диференціально-алгебраїчні</td>
+            <td class="subcategory">-</td>
+            <td>ДАР</td>
+            <td>x'(t) = y(t), 0 = x(t) + y(t)</td>
+        </tr>
+        
+        <!-- Різницеві рівняння -->
+        <tr>
+            <td rowspan="2" class="category">Різницеві рівняння</td>
+            <td rowspan="2" class="subcategory">-</td>
+            <td>Лінійні</td>
+            <td>aₙ₊₂ - 5aₙ₊₁ + 6aₙ = 0</td>
+        </tr>
+        <tr>
+            <td>Нелінійні</td>
+            <td>xₙ₊₁ = rxₙ(1 - xₙ) (логистичне відображення)</td>
+        </tr>
+        
+        <!-- Матричні рівняння -->
+        <tr>
+            <td rowspan="3" class="category">Матричні рівняння</td>
+            <td rowspan="3" class="subcategory">-</td>
+            <td>Лінійні системи</td>
+            <td>AX = B</td>
+        </tr>
+        <tr>
+            <td>Силкестра</td>
+            <td>AX + XB = C</td>
+        </tr>
+        <tr>
+            <td>Ріккаті</td>
+            <td>XAX + BX + XC + D = 0</td>
+        </tr>
+        
+        <!-- Діофантові рівняння -->
+        <tr>
+            <td class="category">Діофантові рівняння</td>
+            <td class="subcategory">-</td>
+            <td>Діофантові</td>
+            <td>x² + y² = z² (рівняння Піфагора)</td>
+        </tr>
+    </table>
+</body>
+</html>
