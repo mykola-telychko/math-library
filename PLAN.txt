@@ -3,3 +3,6 @@ scans and notices
 check pinterest albums
 
 links from youtube
+
+graphics
+https://www.desmos.com/calculator?lang=uk
