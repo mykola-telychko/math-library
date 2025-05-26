@@ -65,6 +65,11 @@ https://www.youtube.com/live/k8jV8dvTogk
 
 ----------------
 Хан академія
+
+Арифметика
+https://www.youtube.com/playlist?list=PL1114F136F0AB1895
+
+
 Система рівнянь та нерівностей
 https://www.youtube.com/playlist?list=PLFC8E4412F62284AC
 https://www.youtube.com/playlist?list=PL068BC5BA7C296AE5
@@ -74,12 +79,25 @@ https://www.youtube.com/playlist?list=PLxGo9dxQkqWBIK_9mMavoFqco1As8WApP
 https://www.youtube.com/playlist?list=PL4D219C65B021A8E3
 
 
-
 Історія алгебри 
 https://www.youtube.com/playlist?list=PLxGo9dxQkqWATNXkJm5Reyypnw4k_uP22
 
+
+Теорія ймовірності 
+https://www.youtube.com/playlist?list=PLFED4D8CA429777B6
+
+Теорія ймовірності та статистика 
+https://www.youtube.com/playlist?list=PLxGo9dxQkqWCJBpHTlDUBrjUni4srjj4U
+
+Теорія ймовірності та комбінаторика 
+https://www.youtube.com/playlist?list=PLxGo9dxQkqWCwwG8YLBkc86eOE7ER0LcE
+
 ------
 
+НМТ  ДПА 
+https://www.youtube.com/watch?v=e2-kUlMVnDM
+
+------
 Методи розв'язування дослідницьких задач за допомогою програмування 
 https://www.youtube.com/playlist?list=PLffzypciL6QIxF6dYWVjTPz6NkVngddjQ
 
