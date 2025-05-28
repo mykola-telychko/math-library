@@ -1,3 +1,6 @@
+miro / study plan
+https://miro.com/app/board/uXjVIvYgzT4=/?share_link_id=323347211953
+
 знайти дизайн для першого списку з фільтром та пошуком . відразу на гітхаб.іо
 
 scans and notices
@@ -8,3 +11,4 @@ links from youtube
 
 graphics
 https://www.desmos.com/calculator?lang=uk
+
