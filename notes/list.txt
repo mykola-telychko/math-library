@@ -4,6 +4,9 @@ https://docs.google.com/document/d/1-jkeD4u3y6Ohfuuzka_urkgSYoi2rcn4vkDAvWiQChs/
 
 Тут усе: зливи, матеріали, підтримка й комʼюніті.
 
+math tutorials
+https://www.tutorialspoint.com/maths_tutorials.htm
+
  Щоденник абітурієнта
 https://web.telegram.org/a/#-1001411327596
 Наш головний хаб. Усі зливи, новини й весь двіж тут.
@@ -130,3 +133,12 @@ https://www.if24.ru/5-problem-promyshlennosti-kotorye-reshaet-matematika/
 
 Стрим #38. ЕГЭ по информатике 2019, 11 класс.
 https://www.youtube.com/watch?v=hfJyfLE0Pwo
+
+теорія ймовірності. теорема баєса (ру) дата-саєнс
+https://proglib.io/p/bayes-theorem
+
+формула лейбніца похідна 
+https://www.youtube.com/watch?v=hg5GQccyv58
+
+Статичтика та теорія ймовірності і система обслуговування черги
+https://www.youtube.com/watch?v=zwB8ckkm_kI
