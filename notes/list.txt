@@ -36,6 +36,9 @@ https://web.telegram.org/a/#-1002135745568
 
 https://studinfo.org/materials/mathematics
 
+7 клас - старі записи 10 років 
+https://www.youtube.com/playlist?list=PLkZMZm2LBREPsP31wpqKcJgXV2zuDOmn2
+
 ---------------
 
 УКУ курс лінійної алгебри , ai курс
@@ -145,3 +148,10 @@ https://www.youtube.com/watch?v=hg5GQccyv58
 
 Статичтика та теорія ймовірності і система обслуговування черги
 https://www.youtube.com/watch?v=zwB8ckkm_kI
+
+математичний аналіз 
+https://youtu.be/Ondi63La4hc
+
+
+Алгоритми та структури даних
+https://proglib.io/p/awesome-algorithms
