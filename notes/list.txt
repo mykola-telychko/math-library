@@ -156,7 +156,36 @@ https://youtu.be/Ondi63La4hc
 Алгоритми та структури даних
 https://proglib.io/p/awesome-algorithms
 
-// популяризація математики 
+
+
+// --- POP MATH - BEGIN
+
+викласти предмет так щоб довести його важливість . продати народу математику. 
+досвід єс та країн азії . проаналізувати що є і створити на основі цього 
+тактику яка буде частиною основної стратегії розвитку.
+
 https://youtu.be/X5LJcq5eoy8?si=E_0ZTi41P7y00gJ4
 
 https://youtu.be/0Ygc0Vb3upA?si=k5fy4DdB1ZIINj4L
+
+про важливість математики - стаття 
+https://www.superprof.com.ua/blog/rol-matematyky-v-zhytti-lyudyny/
+
+https://naurok.com.ua/stattya-rol-matematiki-v-zhitti-lyudini-210830.html
+https://duikt.edu.ua/ua/news-1-830-11987-vazhlivist-matematiki-ta-ii-zastosuvannya-v-programuvanni_kafedra-tehnologiy-cifrovogo-rozvitku
+
+Сучасні українські математики світового рівня
+https://nau.edu.ua/site/variables/news/2021/11/%D0%9F%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%B8%D0%B7.%D0%BC%D0%B0%D1%82%D0%B5%D0%BC..pdf
+
+ілюстрована книга для популяризації математики
+https://testportal.gov.ua/wp-content/uploads/2023/02/Estonian-mathematics.pdf
+
+https://vgoru.org/cikavo/ci-potribna-matematika-programistu
+https://www.youtube.com/watch?v=1glqIdcBVZo
+
+https://codelabsacademy.com/uk/blog/does-cyber-security-require-math/
+
+https://cases.media/en/article/naskilki-programistu-potribno-znati-matematiku-yaka-potribna-matematika-programistu-de-vchiti-matematiku-dlya-programistiv?srsltid=AfmBOoqrSQABH72meioJ77mU5woF-PzGcLzCO8BxZHxxyfp5B9NH38ar
+
+https://cyberleninka.ru/article/n/rol-matematiki-yak-navchalnoyi-distsiplini-u-rozvitku-stem-osviti/viewer
+// --- POP MATH - END
