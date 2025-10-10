@@ -16,6 +16,7 @@ links from youtube
 graphics
 https://www.desmos.com/calculator?lang=uk
 
+Лекції по логіці та дискретній математиці. Конспект власний +++
 основи дискретної математики (ру)
 https://www.youtube.com/playlist?list=PLlb7e2G7aSpQDJ_bwWtRIU-smBsjtYy0U
 
@@ -23,3 +24,6 @@ https://www.youtube.com/playlist?list=PLlb7e2G7aSpQDJ_bwWtRIU-smBsjtYy0U
 https://www.youtube.com/playlist?list=PLlb7e2G7aSpRG_Ve6kuxc9Biuwyf42kJx
 
 https://www.youtube.com/playlist?list=PLlb7e2G7aSpRIiB5S5ld-3nxxVAH5cyAc
+
+весь шкільний курс математики(юа)
+https://youtu.be/-zPNPLdf4ms?si=BWpUgis2jqnRGs4t
