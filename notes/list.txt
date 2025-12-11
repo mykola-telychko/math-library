@@ -22,10 +22,6 @@ ProMaths
 https://web.telegram.org/a/#-1001654770860
 Найперші розбирають зливи з математики. З матюками.
 
- НМТ ФІЗИКА - 2025
-Завдання з фізики й корисна підготовка.
-https://web.telegram.org/a/#-1002135745568
-
  STUDINFO: матеріали
 Збірники, пробні онлайн тести, різні завдання — усе в одному місці.
 🔗 studinfo.org/materials
@@ -105,6 +101,12 @@ https://www.youtube.com/playlist?list=PLxGo9dxQkqWCwwG8YLBkc86eOE7ER0LcE
 
 НМТ  ДПА 
 https://www.youtube.com/watch?v=e2-kUlMVnDM
+
+НМТ зливи 2025 
+https://www.youtube.com/playlist?list=PLxxBPn8jBEBTwvL1fpSv2Dk0FQcwdaCIC
+
+ЗНО НМТ .
+https://youtube.com/playlist?list=PL_zDp5rG6HqsGJGG4OUIDCDdEnTyEH-C5&si=0Mf5fAlPQix5p454
 
 ------
 Методи розв'язування дослідницьких задач за допомогою програмування 
