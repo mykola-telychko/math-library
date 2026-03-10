@@ -42,3 +42,5 @@ https://github.com/valeman/Awesome_Math_Books?tab=readme-ov-file#history
 Дискретна математика.
 https://youtube.com/playlist?list=PLkKDBbTQ_-J-wVG3gnOunte5FGMOQWwXx&si=CZ1oMk7bQTSZiAD9
 
+math for cs 
+https://www.youtube.com/playlist?list=PLUl4u3cNGP61VNvICqk2HXJTonnKgAc9d
