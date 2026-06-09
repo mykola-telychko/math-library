@@ -1,0 +1,149 @@
+Optimized tool selectionПеревіряю поточну структуру проєкту і наявні файли README/PLAN, щоб дати точні рекомендації.
+
+Read [](file:///Users/avanti/Documents/projects/GitHub/math-library)
+
+Read [](file:///Users/avanti/Documents/projects/GitHub/math-library/README.md)
+
+Read [](file:///Users/avanti/Documents/projects/GitHub/math-library/PLAN.txt)
+
+Дивлюсь детальніше на підпапки, щоб запропонувати логічну тематичну структуру.
+
+Read [](file:///Users/avanti/Documents/projects/GitHub/math-library/notes)
+
+Read [](file:///Users/avanti/Documents/projects/GitHub/math-library/articles)
+
+Read [](file:///Users/avanti/Documents/projects/GitHub/math-library/statistics)
+
+Read [](file:///Users/avanti/Documents/projects/GitHub/math-library/olimpiads)
+
+## Рекомендована структура
+
+Найкраще структурувати math-library за темами та типом матеріалів, щоб швидко знаходити потрібне.
+
+### 1. Головні розділи
+- `exam-prep/` — підготовка до ЗНО/НМТ, тести, конспекти, картки.
+- `olympiads/` — олімпіадна математика, розв’язки, задачі.
+- `school-math/` — шкільний курс:
+  - `algebra/`
+  - `geometry/`
+  - `trigonometry/`
+  - `calculus/`
+  - `statistics/`
+- `discrete-math/` — логіка, множини, комбінаторика, теорія чисел.
+- `math-physics/` — математична фізика, прикладна математика.
+- `books/` — книги, підручники, PDF.
+- `articles/` — статті, огляди, конспекти.
+- `popular-math/` або `pop/` — популярні матеріали, відео, інфографіка.
+
+### 2. Як розмістити існуючі папки
+- `NMT-ZNO/` → `exam-prep/zno/` або просто `exam-prep/`
+- `olimpiads/` залишити, але додати README всередині
+- `physic/` → `math-physics/`
+- `statistics/` можна залишити як окрему тему, або перемістити в `school-math/statistics/`
+- `notes/` краще перерозподілити за темами:
+  - `notes/algebra/`
+  - `notes/geometry/`
+  - `notes/discrete-math/`
+  - `notes/statistics/`
+- `pop/` → `popular-math/` або `math-popular/` для ясності
+
+### 3. Структура по темам
+
+Пропоную такий поділ:
+
+1. `exam-prep/`
+   - `zno/`
+   - `nmt/`
+   - `tests/`
+   - `flashcards/`
+
+2. `school-math/`
+   - `algebra/`
+   - `geometry/`
+   - `trigonometry/`
+   - `calculus/`
+   - `statistics/`
+
+3. `olympiads/`
+   - `problems/`
+   - `solutions/`
+   - `theory/`
+
+4. `discrete-math/`
+   - `logic/`
+   - `sets/`
+   - `combinatorics/`
+   - `number-theory/`
+
+5. `resources/`
+   - `books/`
+   - `articles/`
+   - `videos/`
+   - `links/`
+
+## Як написати README
+
+README має бути простим, але зрозумілим:
+
+- Короткий опис: що це за бібліотека, для кого, яка мета.
+- Навіщо: як використовувати, що тут можна знайти.
+- Структура: список папок + короткий опис кожної.
+- План: короткий roadmap із PLAN.txt.
+- Як доповнювати: як додавати матеріали, як структурувати нові папки.
+- Джерела / корисні посилання: YouTube-плейлисти, сайти, книги.
+
+### Приклад змісту README
+
+- Назва проєкту
+- Мета
+- Організація
+- Короткий огляд папок
+- Як користуватися
+- План розвитку
+- Контакти / додаткові ресурси
+
+## Приклад тексту для README
+
+```
+# Math Library
+
+Колекція нотаток, конспектів, задач і підручників з математики.
+
+## Мета
+Зібрати матеріали для підготовки до ЗНО/НМТ, олімпіад і шкільного курсу.
+
+## Структура
+- `exam-prep/` — підготовка до іспитів і тестів.
+- `olympiads/` — задачі та розв’язки олімпіадного рівня.
+- `school-math/` — шкільні теми: алгебра, геометрія, тригонометрія, аналіз, статистика.
+- `discrete-math/` — дискретна математика, логіка, комбінаторика.
+- `math-physics/` — математичні моделі, фізичні задачі.
+- `books/` — книги та підручники.
+- `articles/` — статті, конспекти, навчальні довідки.
+- `popular-math/` — популярні матеріали та відео.
+
+## Як користувати
+1. Відкрий потрібну тему.
+2. Використовуй `LIST.txt` або `README.md` всередині папки для навігації.
+3. Додавай нові файли в тематичну папку, не змішуй різні напрямки.
+
+## План
+- Перенести `NMT-ZNO` в `exam-prep/`
+- Розбити `notes/` за темами
+- Додати `school-math/` із підпапками
+- Описати кожну тему в окремому README
+
+## Джерела
+- YouTube: курси з дискретної математики
+- Desmos: https://www.desmos.com/calculator?lang=uk
+```
+
+## Що зробити першим
+
+1. Зберегти поточні папки, але створити нові топ-рівні: `exam-prep/`, `school-math/`, `discrete-math/`, `math-physics/`, `popular-math/`.
+2. Перемістити `NMT-ZNO/` у `exam-prep/`.
+3. Перебрати `notes/` і розподілити по темам.
+4. Додати в корінь README.md з описом структури.
+5. Можливо, зробити README.md всередині кожної великої папки: `exam-prep/README.md`, `school-math/README.md`, `olympiads/README.md`.
+
+> Якщо хочеш, можу одразу запропонувати конкретний варіант README.md для твого проєкту.
